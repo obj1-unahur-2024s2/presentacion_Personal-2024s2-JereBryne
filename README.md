@@ -1,37 +1,19 @@
-![Logo UNAHUR](./assets/Cuti.jpeg)
+# Bienvenidos a mi presentación
+### pasen y ponganse comodos
 
-Bienvenidxs a
-# Programación con objetos I
+Soy Jeremias Markevich, tengo 23 años, vivo en hurlingham y soy fan del Cuti Romero y del Tottenham Hotspur
 
-## Cambio ne el codigo prueba
+![Foto Cuti](./assets/Cuti.jpeg)
 
-En esta materia aprenderán sobre la famosa POO _(OOP en inglés)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
-Para ello usaremos como herramienta el lenguaje Wollok.
+**Mis actividades diarias tambien son:**
+* Trabajar haciendo mantenimiento de redes para telecentro
+* Jugar al basquet
+* Jugar al lolcito
 
-```
-object programacionConObjetos { 
-    method saludar() { 
-        return  "Bienvenidxs!"  
-    }
-}
-```
 
-## Datos de la cursada :book:
-* Modalidad Mixta
-* Horario comisión **turno noche**: Martes 18hs.
-* Horario comisión **turno mañana**: Miercoles 8hs.
-* Horario **ambas comisión**: Sabados 10hs.
-* Este cuatrimestre los profesores somos Gerardo González, Lucas Spigariol y Hernán Coniglio
-* Además nos acompañan como colaboradores Valentino Chiappani, Manuel Nuñez, Tobias Di Salvo, Enzo Alarcón, Cristian Gonzalez, Gabriel Ledezma, Maia Barrionuevo y Gabriel Álvarez.
 
-## Links importantes :monocle_face:
-- [x] [Página principal](https://obj1-unahur.github.io/) de la materia (no olviden entrar seguido!) 
-- [x] [Cronograma](https://docs.google.com/spreadsheets/d/1my_Oo31XGP7EE2kQ7otHWRg_LeoMR48rmhF7LiMkbDY/edit?usp=sharing) de clases.
-- [x] [Matricularse](https://discord.com/channels/656909199510601744/1088949265306501130) y ver el canal de Discord.
+Esta sección ya es de prueba, aviso
+- [x] [Instagram] (https://www.instagram.com/)
+[Twitter](https://x.com/home) Twitter (x)
 
-### Referencias Markdown 
-* [Wikipedia](https://es.wikipedia.org/wiki/Markdown)
 
-* [Guía Ràpida](https://greg.schueler.us/doc/markdown.txt) de la sintaxis _(en inglés)_
-
-* [Emojis!](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) :sunglasses:
