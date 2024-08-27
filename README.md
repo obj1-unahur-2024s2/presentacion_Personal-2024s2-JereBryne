@@ -1,7 +1,6 @@
-![Logo UNAHUR](./assets/UNAHUR.png)
+![Logo UNAHUR](./assets/Cuti.png)
 
 Bienvenidxs a
-j
 # Programación con objetos I
 
 ## Cambio ne el codigo prueba
