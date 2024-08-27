@@ -1,4 +1,4 @@
-![Logo UNAHUR](./assets/Cuti.png)
+![Logo UNAHUR](./assets/Cuti.jepg)
 
 Bienvenidxs a
 # Programación con objetos I
